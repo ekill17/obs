@@ -1,0 +1,1149 @@
+{
+  "vaultName": "Academia Notarial e Registral",
+  "lastExport": 1741713774668,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager native-scrollbars theme-light show-inline-title show-ribbon background-settings-workplace-theme-light-in-the-note background-settings-workplace-theme-dark-in-the-sky background-image-settings-markdown-page-transparent notebook-liked-markdown-page-grid-notebook-1 panel-page-bg-theme-light-wall panel-page-bg-theme-dark-plant layout-style-options-default bt-default-unordered-list default-ol-list-marker list-no-border bt-connected-indent-hover bt-colorful-connected-indent-hover folder-icons remove-arrow bt-toggle-colorful-folder folder-style-change-options-colorful-border folder-colorful-six table-width-100 tag-default admonition-bg-color-same style-options-for-admonition-plugin style-options-for-buttons-plugin dataview-list-style-pacman memos-banner-gradient thino-frosted-style thino-background-default quiet-outline-optimize code-theme-bt-default whole-code-wrap is-fullscreen",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "1- DASHBOARD/POST para INSTA/1- 🔹 O que são os Serviços Notariais e de Registro? 🔹.md",
+    "1- DASHBOARD/POST para INSTA/2- ⚖️ Notário ou Registrador? Você sabe a diferença? ⚖️.md",
+    "1- DASHBOARD/POST para INSTA/3- 📜 Lei 8.935.94. A Base do Direito Notarial e Registral.md",
+    "1- DASHBOARD/POST para INSTA/4- 🏛 A Importância do Direito Notarial e Registral no Estado Contemporâneo.md",
+    "1- DASHBOARD/POST para INSTA/Sem título 3.md",
+    "1- DASHBOARD/1. Avisos e Orientações.md",
+    "1- DASHBOARD/2. Kanban.md",
+    "1- DASHBOARD/Divisão das matérias entre os membros.md",
+    "1- DASHBOARD/Modelo padrão.md",
+    "1- DASHBOARD/SENHAS.md",
+    "ARQUIVOS/Bruno Freitas.md",
+    "ARQUIVOS/Daiane Medino Wotkoski.md",
+    "ARQUIVOS/Edna Nunes.md",
+    "ARQUIVOS/ENAM - Temas Cobrados.md",
+    "ARQUIVOS/Erick Sudré.md",
+    "ARQUIVOS/Lucas Medeiros Gomes.md",
+    "ARQUIVOS/Neto Batistetti.md",
+    "ARQUIVOS/TAGS.md",
+    "output/A N R - Academia Notarial e Registral.html",
+    "PROJETOS/ACADEMIA N.R/01. NOTARIAL E REGISTRAL - Parte 1 (Lucas)/Lucas Medeiros Gomes/2. História dos serviços notariais e de registro no Brasil..md",
+    "PROJETOS/ACADEMIA N.R/01. NOTARIAL E REGISTRAL - Parte 1 (Lucas)/Lucas Medeiros Gomes/2.1. Histórico da legislação. Sistema de transcrição. Sistema de matrículas..md",
+    "PROJETOS/ACADEMIA N.R/01. NOTARIAL E REGISTRAL - Parte 1 (Lucas)/Lucas Medeiros Gomes/2.2. Evolução nas técnicas de escrituração dos atos;.md",
+    "PROJETOS/ACADEMIA N.R/01. NOTARIAL E REGISTRAL - Parte 1 (Lucas)/Lucas Medeiros Gomes/11. Resoluções do CNJ..md",
+    "PROJETOS/ACADEMIA N.R/01. NOTARIAL E REGISTRAL - Parte 1 (Lucas)/Lucas Medeiros Gomes/11.1. Resolução n° 402, de 28 de junho de 2021, que dispõe sobre ações de caráter informativo, no âmbito do Serviço de Registro Civil das Pessoas Naturais, para melhor preparação para o casamento civil, e dá outras providências.md",
+    "PROJETOS/ACADEMIA N.R/01. NOTARIAL E REGISTRAL - Parte 1 (Lucas)/Lucas Medeiros Gomes/11.2. Resolução n° 35, de 24 de abril de 2007, que disciplina a lavratura dos atos notariais relacionados a inventário, partilha, separação consensual, divórcio consensual e extinção consensual de união estável por via administrati.md",
+    "PROJETOS/ACADEMIA N.R/01. NOTARIAL E REGISTRAL - Parte 1 (Lucas)/Lucas Medeiros Gomes/A N R - Academia Notarial e Registral.md",
+    "PROJETOS/ACADEMIA N.R/01. NOTARIAL E REGISTRAL - Parte 1 (Lucas)/Lucas Medeiros Gomes/Contribuições avulsas aos tópicos dos demais membros.md",
+    "PROJETOS/ACADEMIA N.R/01. NOTARIAL E REGISTRAL - Parte 1 (Lucas)/Lucas Medeiros Gomes/POST's INSTAGRAM e vídeos semanais.md",
+    "PROJETOS/ACADEMIA N.R/01. NOTARIAL E REGISTRAL - Parte 1 (Lucas)/Lucas Medeiros Gomes/SIMULADOS SEMANAIS.md",
+    "PROJETOS/ACADEMIA N.R/01. NOTARIAL E REGISTRAL - Parte 1 (Lucas)/00. Conteúdo Programático - ENAC.md",
+    "PROJETOS/ACADEMIA N.R/02. NOTARIAL E REGISTRAL - Parte 2/00. Conteúdo Programático - ENAC.md",
+    "PROJETOS/ACADEMIA N.R/02. NOTARIAL E REGISTRAL - Parte 2/01. Título.md",
+    "PROJETOS/ACADEMIA N.R/02. NOTARIAL E REGISTRAL - Parte 2/02. Título.md",
+    "PROJETOS/ACADEMIA N.R/02. NOTARIAL E REGISTRAL - Parte 2/03. Título.md",
+    "PROJETOS/ACADEMIA N.R/02. NOTARIAL E REGISTRAL - Parte 2/04. Título.md",
+    "PROJETOS/ACADEMIA N.R/02. NOTARIAL E REGISTRAL - Parte 2/05. Título.md",
+    "PROJETOS/ACADEMIA N.R/02. NOTARIAL E REGISTRAL - Parte 2/06. Título.md",
+    "PROJETOS/ACADEMIA N.R/02. NOTARIAL E REGISTRAL - Parte 2/07. Título.md",
+    "PROJETOS/ACADEMIA N.R/02. NOTARIAL E REGISTRAL - Parte 2/08. Título.md",
+    "PROJETOS/ACADEMIA N.R/02. NOTARIAL E REGISTRAL - Parte 2/09. Título.md",
+    "PROJETOS/ACADEMIA N.R/02. NOTARIAL E REGISTRAL - Parte 2/10. Título.md",
+    "PROJETOS/ACADEMIA N.R/03. NOTARIAL E REGISTRAL - Parte 3/00. Conteúdo Programático - ENAC.md",
+    "PROJETOS/ACADEMIA N.R/03. NOTARIAL E REGISTRAL - Parte 3/01. Título.md",
+    "PROJETOS/ACADEMIA N.R/03. NOTARIAL E REGISTRAL - Parte 3/02. Título.md",
+    "PROJETOS/ACADEMIA N.R/03. NOTARIAL E REGISTRAL - Parte 3/03. Título.md",
+    "PROJETOS/ACADEMIA N.R/03. NOTARIAL E REGISTRAL - Parte 3/04. Título.md",
+    "PROJETOS/ACADEMIA N.R/03. NOTARIAL E REGISTRAL - Parte 3/05. Título.md",
+    "PROJETOS/ACADEMIA N.R/03. NOTARIAL E REGISTRAL - Parte 3/06. Título.md",
+    "PROJETOS/ACADEMIA N.R/03. NOTARIAL E REGISTRAL - Parte 3/07. Título.md",
+    "PROJETOS/ACADEMIA N.R/03. NOTARIAL E REGISTRAL - Parte 3/08. Título.md",
+    "PROJETOS/ACADEMIA N.R/03. NOTARIAL E REGISTRAL - Parte 3/09. Título.md",
+    "PROJETOS/ACADEMIA N.R/03. NOTARIAL E REGISTRAL - Parte 3/10. Título.md",
+    "PROJETOS/ACADEMIA N.R/04. NOTARIAL E REGISTRAL - Parte 3/00. Conteúdo Programático - ENAC.md",
+    "PROJETOS/ACADEMIA N.R/04. NOTARIAL E REGISTRAL - Parte 3/01. Título.md",
+    "PROJETOS/ACADEMIA N.R/04. NOTARIAL E REGISTRAL - Parte 3/02. Título.md",
+    "PROJETOS/ACADEMIA N.R/04. NOTARIAL E REGISTRAL - Parte 3/03. Título.md",
+    "PROJETOS/ACADEMIA N.R/04. NOTARIAL E REGISTRAL - Parte 3/04. Título.md",
+    "PROJETOS/ACADEMIA N.R/04. NOTARIAL E REGISTRAL - Parte 3/05. Título.md",
+    "PROJETOS/ACADEMIA N.R/04. NOTARIAL E REGISTRAL - Parte 3/06. Título.md",
+    "PROJETOS/ACADEMIA N.R/04. NOTARIAL E REGISTRAL - Parte 3/07. Título.md",
+    "PROJETOS/ACADEMIA N.R/04. NOTARIAL E REGISTRAL - Parte 3/08. Título.md",
+    "PROJETOS/ACADEMIA N.R/04. NOTARIAL E REGISTRAL - Parte 3/09. Título.md",
+    "PROJETOS/ACADEMIA N.R/04. NOTARIAL E REGISTRAL - Parte 3/10. Título.md",
+    "PROJETOS/ACADEMIA N.R/05. CIVIL - Parte 1/00. Conteúdo Programático - ENAC.md",
+    "PROJETOS/ACADEMIA N.R/05. CIVIL - Parte 1/01. Título.md",
+    "PROJETOS/ACADEMIA N.R/05. CIVIL - Parte 1/02. Título.md",
+    "PROJETOS/ACADEMIA N.R/05. CIVIL - Parte 1/03. Título.md",
+    "PROJETOS/ACADEMIA N.R/05. CIVIL - Parte 1/04. Título.md",
+    "PROJETOS/ACADEMIA N.R/05. CIVIL - Parte 1/05. Título.md",
+    "PROJETOS/ACADEMIA N.R/05. CIVIL - Parte 1/06. Título.md",
+    "PROJETOS/ACADEMIA N.R/05. CIVIL - Parte 1/07. Título.md",
+    "PROJETOS/ACADEMIA N.R/05. CIVIL - Parte 1/08. Título.md",
+    "PROJETOS/ACADEMIA N.R/05. CIVIL - Parte 1/09. Título.md",
+    "PROJETOS/ACADEMIA N.R/05. CIVIL - Parte 1/10. Título.md",
+    "PROJETOS/ACADEMIA N.R/06. CIVIL - Parte 2 (Neto)/00. Conteúdo Programático - ENAC.md",
+    "PROJETOS/ACADEMIA N.R/06. CIVIL - Parte 2 (Neto)/11. Do Direito das Obrigações..md",
+    "PROJETOS/ACADEMIA N.R/06. CIVIL - Parte 2 (Neto)/12. Dos Contratos em Geral..md",
+    "PROJETOS/ACADEMIA N.R/06. CIVIL - Parte 2 (Neto)/13. Do Direito de Família.md",
+    "PROJETOS/ACADEMIA N.R/06. CIVIL - Parte 2 (Neto)/14. Dos Direitos das Sucessões.md",
+    "PROJETOS/ACADEMIA N.R/06. CIVIL - Parte 2 (Neto)/15. Súmulas do STF e do STJ.md",
+    "PROJETOS/ACADEMIA N.R/07. CONSTITUCIONAL - Parte 1 (NETO)/00. Conteúdo Programático - ENAC 1.md",
+    "PROJETOS/ACADEMIA N.R/07. CONSTITUCIONAL - Parte 1 (NETO)/Conteúdo Completo.md",
+    "PROJETOS/ACADEMIA N.R/07. CONSTITUCIONAL - Parte 2/00. Conteúdo Programático - ENAC.md",
+    "PROJETOS/ACADEMIA N.R/07. CONSTITUCIONAL - Parte 2/01. Título.md",
+    "PROJETOS/ACADEMIA N.R/07. CONSTITUCIONAL - Parte 2/02. Título.md",
+    "PROJETOS/ACADEMIA N.R/07. CONSTITUCIONAL - Parte 2/03. Título.md",
+    "PROJETOS/ACADEMIA N.R/07. CONSTITUCIONAL - Parte 2/04. Título.md",
+    "PROJETOS/ACADEMIA N.R/07. CONSTITUCIONAL - Parte 2/05. Título.md",
+    "PROJETOS/ACADEMIA N.R/07. CONSTITUCIONAL - Parte 2/06. Título.md",
+    "PROJETOS/ACADEMIA N.R/07. CONSTITUCIONAL - Parte 2/07. Título.md",
+    "PROJETOS/ACADEMIA N.R/07. CONSTITUCIONAL - Parte 2/08. Título.md",
+    "PROJETOS/ACADEMIA N.R/07. CONSTITUCIONAL - Parte 2/09. Título.md",
+    "PROJETOS/ACADEMIA N.R/07. CONSTITUCIONAL - Parte 2/10. Título.md",
+    "PROJETOS/ACADEMIA N.R/09. ADMINISTRATIVO (Bruno)/00. Conteúdo Programático - ENAC.md",
+    "PROJETOS/ACADEMIA N.R/10. TRIBUTÁRIO (Bruno)/00. Conteúdo Programático - ENAC.md",
+    "PROJETOS/ACADEMIA N.R/11. EMPRESARIAL (Bruno)/00. Conteúdo Programático - ENAC.md",
+    "PROJETOS/ACADEMIA N.R/12. PENAL (Bruno + Erick)/00. Conteúdo Programático - ENAC.md",
+    "PROJETOS/ACADEMIA N.R/13. PROCESSO PENAL (Bruno + Erick)/00. Conteúdo Programático - ENAC.md",
+    "PROJETOS/ACADEMIA N.R/14. PROCESSO CIVIL (Bruno + Erick)/00. Conteúdo Programático - ENAC.md",
+    "PROJETOS/ACADEMIA N.R/15. CONHECIMENTOS GERAIS (Bruno + Erick)/00. Conteúdo Programático - ENAC.md",
+    "PROJETOS/ACADEMIA N.R/15. CONHECIMENTOS GERAIS (Bruno + Erick)/Notas gerais.md",
+    "PROJETOS/ACADEMIA N.R/15. CONHECIMENTOS GERAIS (Bruno + Erick)/Sem título.md",
+    "TEMPLATES/📌 Template para Jurisprudência.md",
+    "TEMPLATES/📌 Template para LEI.md",
+    "TEMPLATES/📌 Template para Súmulas.md",
+    "TEMPLATES/Direito Administrativo.md",
+    "TEMPLATES/Direito Civil.md",
+    "TEMPLATES/Direito Constitucional.md",
+    "TEMPLATES/Direito Penal.md",
+    "TEMPLATES/Direito Trabalho.md",
+    "TEMPLATES/Direito Tributário.md",
+    "TEMPLATES/Doutrina.md",
+    "TEMPLATES/Jurisprudência.md",
+    "TEMPLATES/Legislação.md",
+    "TEMPLATES/QuestãoComentada.md",
+    "TEMPLATES/Resumo.md",
+    "TEMPLATES/STF.md",
+    "TEMPLATES/STJ.md",
+    "TEMPLATES/Súmula.md",
+    "TEMPLATES/TST.md",
+    "2.1. Histórico da legislação. Sistema de transcrição. Sistema de matrículas..md",
+    "2.2. Evolução nas técnicas de escrituração dos atos.md",
+    "6.4. A Matrícula e conceito jurídico de bem imóvel.md",
+    "11. Resoluções do CNJ..md",
+    "11.1. Resolução n° 402, de 28 de junho de 2021, que dispõe sobre ações de caráter informativo, no âmbito do Serviço de Registro Civil das Pessoas Naturais, para melhor preparação para o casamento civil, e dá outras providências.md",
+    "11.2. Resolução n° 35, de 24 de abril de 2007, que disciplina a lavratura dos atos notariais relacionados a inventário, partilha, separação consensual, divórcio consensual e extinção consensual de união estável por via administrati.md",
+    "Captura de Tela 2025-02-08 às 14.01.11.png",
+    "Sem título.md",
+    "Trilha 4.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "1- DASHBOARD/POST para INSTA/1- 🔹 O que são os Serviços Notariais e de Registro? 🔹.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 729,
+      "exportedPath": "1-dashboard/post-para-insta/1-🔹-o-que-são-os-serviços-notariais-e-de-registro/1-🔹-o-que-são-os-serviços-notariais-e-de-registro.html",
+      "dependencies": []
+    },
+    "1- DASHBOARD/POST para INSTA/2- ⚖️ Notário ou Registrador? Você sabe a diferença": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 835,
+      "exportedPath": "1-dashboard/post-para-insta/2-⚖️-notário-ou-registrador/2-⚖️-notário-ou-registrador.html",
+      "dependencies": []
+    },
+    "1- DASHBOARD/POST para INSTA/3- 📜 Lei 8.935.94. A Base do Direito Notarial e Registral.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 756,
+      "exportedPath": "1-dashboard/post-para-insta/3-📜-lei-8.935.94.-a-base-do-direito-notarial-e-registral.html",
+      "dependencies": []
+    },
+    "1- DASHBOARD/POST para INSTA/4- 🏛 A Importância do Direito Notarial e Registral no Estado Contemporâneo.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 8186,
+      "exportedPath": "1-dashboard/post-para-insta/4-🏛-a-importância-do-direito-notarial-e-registral-no-estado-contemporâneo.html",
+      "dependencies": []
+    },
+    "1- DASHBOARD/POST para INSTA/Sem título 3.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 0,
+      "exportedPath": "1-dashboard/post-para-insta/sem-título-3.html",
+      "dependencies": []
+    },
+    "1- DASHBOARD/1. Avisos e Orientações.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 688,
+      "exportedPath": "1-dashboard/1.-avisos-e-orientações.html",
+      "dependencies": []
+    },
+    "1- DASHBOARD/2. Kanban.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 1175,
+      "exportedPath": "1-dashboard/2.-kanban.html",
+      "dependencies": []
+    },
+    "1- DASHBOARD/Divisão das matérias entre os membros.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 30,
+      "exportedPath": "1-dashboard/divisão-das-matérias-entre-os-membros.html",
+      "dependencies": []
+    },
+    "1- DASHBOARD/Modelo padrão.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 1868,
+      "exportedPath": "1-dashboard/modelo-padrão.html",
+      "dependencies": []
+    },
+    "1- DASHBOARD/SENHAS.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 112,
+      "exportedPath": "1-dashboard/senhas.html",
+      "dependencies": []
+    },
+    "ARQUIVOS/Bruno Freitas.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 1,
+      "exportedPath": "arquivos/bruno-freitas.html",
+      "dependencies": []
+    },
+    "ARQUIVOS/Daiane Medino Wotkoski.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 0,
+      "exportedPath": "arquivos/daiane-medino-wotkoski.html",
+      "dependencies": []
+    },
+    "ARQUIVOS/Edna Nunes.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 19,
+      "exportedPath": "arquivos/edna-nunes.html",
+      "dependencies": []
+    },
+    "ARQUIVOS/ENAM - Temas Cobrados.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 13689,
+      "exportedPath": "arquivos/enam-temas-cobrados.html",
+      "dependencies": []
+    },
+    "ARQUIVOS/Erick Sudré.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 6,
+      "exportedPath": "arquivos/erick-sudré.html",
+      "dependencies": []
+    },
+    "ARQUIVOS/Lucas Medeiros Gomes.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 0,
+      "exportedPath": "arquivos/lucas-medeiros-gomes.html",
+      "dependencies": []
+    },
+    "ARQUIVOS/Neto Batistetti.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 1,
+      "exportedPath": "arquivos/neto-batistetti.html",
+      "dependencies": []
+    },
+    "ARQUIVOS/TAGS.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 323,
+      "exportedPath": "arquivos/tags.html",
+      "dependencies": []
+    },
+    "output/A N R - Academia Notarial e Registral.html": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 7880,
+      "exportedPath": "output/a-n-r-academia-notarial-e-registral.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/01. NOTARIAL E REGISTRAL - Parte 1 (Lucas)/Lucas Medeiros Gomes/2. História dos serviços notariais e de registro no Brasil..md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 6614,
+      "exportedPath": "projetos/academia-n.r/01.-notarial-e-registral-parte-1-(lucas)/lucas-medeiros-gomes/2.-história-dos-serviços-notariais-e-de-registro-no-brasil..html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/01. NOTARIAL E REGISTRAL - Parte 1 (Lucas)/Lucas Medeiros Gomes/2.1. Histórico da legislação. Sistema de transcrição. Sistema de matrículas..md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 8755,
+      "exportedPath": "projetos/academia-n.r/01.-notarial-e-registral-parte-1-(lucas)/lucas-medeiros-gomes/2.1.-histórico-da-legislação.-sistema-de-transcrição.-sistema-de-matrículas..html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/01. NOTARIAL E REGISTRAL - Parte 1 (Lucas)/Lucas Medeiros Gomes/2.2. Evolução nas técnicas de escrituração dos atos;.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 0,
+      "exportedPath": "projetos/academia-n.r/01.-notarial-e-registral-parte-1-(lucas)/lucas-medeiros-gomes/2.2.-evolução-nas-técnicas-de-escrituração-dos-atos;.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/01. NOTARIAL E REGISTRAL - Parte 1 (Lucas)/Lucas Medeiros Gomes/11. Resoluções do CNJ..md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 0,
+      "exportedPath": "projetos/academia-n.r/01.-notarial-e-registral-parte-1-(lucas)/lucas-medeiros-gomes/11.-resoluções-do-cnj..html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/01. NOTARIAL E REGISTRAL - Parte 1 (Lucas)/Lucas Medeiros Gomes/11.1. Resolução n° 402, de 28 de junho de 2021, que dispõe sobre ações de caráter informativo, no âmbito do Serviço de Registro Civil das Pessoas Naturais, para melhor preparação para o casamento civil, e dá outras providências.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 2918,
+      "exportedPath": "projetos/academia-n.r/01.-notarial-e-registral-parte-1-(lucas)/lucas-medeiros-gomes/11.1.-resolução-n°-402,-de-28-de-junho-de-2021,-que-dispõe-sobre-ações-de-caráter-informativo,-no-âmbito-do-serviço-de-registro-civil-das-pessoas-naturais,-para-melhor-preparação-para-o-casamento-civil,-e-dá-outras-providências.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/01. NOTARIAL E REGISTRAL - Parte 1 (Lucas)/Lucas Medeiros Gomes/11.2. Resolução n° 35, de 24 de abril de 2007, que disciplina a lavratura dos atos notariais relacionados a inventário, partilha, separação consensual, divórcio consensual e extinção consensual de união estável por via administrati.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 5556,
+      "exportedPath": "projetos/academia-n.r/01.-notarial-e-registral-parte-1-(lucas)/lucas-medeiros-gomes/11.2.-resolução-n°-35,-de-24-de-abril-de-2007,-que-disciplina-a-lavratura-dos-atos-notariais-relacionados-a-inventário,-partilha,-separação-consensual,-divórcio-consensual-e-extinção-consensual-de-união-estável-por-via-administrati.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/01. NOTARIAL E REGISTRAL - Parte 1 (Lucas)/Lucas Medeiros Gomes/A N R - Academia Notarial e Registral.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 5840,
+      "exportedPath": "projetos/academia-n.r/01.-notarial-e-registral-parte-1-(lucas)/lucas-medeiros-gomes/a-n-r-academia-notarial-e-registral.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/01. NOTARIAL E REGISTRAL - Parte 1 (Lucas)/Lucas Medeiros Gomes/Contribuições avulsas aos tópicos dos demais membros.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 0,
+      "exportedPath": "projetos/academia-n.r/01.-notarial-e-registral-parte-1-(lucas)/lucas-medeiros-gomes/contribuições-avulsas-aos-tópicos-dos-demais-membros.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/01. NOTARIAL E REGISTRAL - Parte 1 (Lucas)/Lucas Medeiros Gomes/POST's INSTAGRAM e vídeos semanais.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 2064,
+      "exportedPath": "projetos/academia-n.r/01.-notarial-e-registral-parte-1-(lucas)/lucas-medeiros-gomes/post's-instagram-e-vídeos-semanais.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/01. NOTARIAL E REGISTRAL - Parte 1 (Lucas)/Lucas Medeiros Gomes/SIMULADOS SEMANAIS.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 0,
+      "exportedPath": "projetos/academia-n.r/01.-notarial-e-registral-parte-1-(lucas)/lucas-medeiros-gomes/simulados-semanais.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/01. NOTARIAL E REGISTRAL - Parte 1 (Lucas)/00. Conteúdo Programático - ENAC.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 0,
+      "exportedPath": "projetos/academia-n.r/01.-notarial-e-registral-parte-1-(lucas)/00.-conteúdo-programático-enac.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/02. NOTARIAL E REGISTRAL - Parte 2/00. Conteúdo Programático - ENAC.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 0,
+      "exportedPath": "projetos/academia-n.r/02.-notarial-e-registral-parte-2/00.-conteúdo-programático-enac.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/02. NOTARIAL E REGISTRAL - Parte 2/01. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 27,
+      "exportedPath": "projetos/academia-n.r/02.-notarial-e-registral-parte-2/01.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/02. NOTARIAL E REGISTRAL - Parte 2/02. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 27,
+      "exportedPath": "projetos/academia-n.r/02.-notarial-e-registral-parte-2/02.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/02. NOTARIAL E REGISTRAL - Parte 2/03. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 27,
+      "exportedPath": "projetos/academia-n.r/02.-notarial-e-registral-parte-2/03.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/02. NOTARIAL E REGISTRAL - Parte 2/04. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 27,
+      "exportedPath": "projetos/academia-n.r/02.-notarial-e-registral-parte-2/04.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/02. NOTARIAL E REGISTRAL - Parte 2/05. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 27,
+      "exportedPath": "projetos/academia-n.r/02.-notarial-e-registral-parte-2/05.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/02. NOTARIAL E REGISTRAL - Parte 2/06. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 27,
+      "exportedPath": "projetos/academia-n.r/02.-notarial-e-registral-parte-2/06.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/02. NOTARIAL E REGISTRAL - Parte 2/07. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 27,
+      "exportedPath": "projetos/academia-n.r/02.-notarial-e-registral-parte-2/07.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/02. NOTARIAL E REGISTRAL - Parte 2/08. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 27,
+      "exportedPath": "projetos/academia-n.r/02.-notarial-e-registral-parte-2/08.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/02. NOTARIAL E REGISTRAL - Parte 2/09. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 27,
+      "exportedPath": "projetos/academia-n.r/02.-notarial-e-registral-parte-2/09.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/02. NOTARIAL E REGISTRAL - Parte 2/10. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 27,
+      "exportedPath": "projetos/academia-n.r/02.-notarial-e-registral-parte-2/10.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/03. NOTARIAL E REGISTRAL - Parte 3/00. Conteúdo Programático - ENAC.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 0,
+      "exportedPath": "projetos/academia-n.r/03.-notarial-e-registral-parte-3/00.-conteúdo-programático-enac.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/03. NOTARIAL E REGISTRAL - Parte 3/01. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 25,
+      "exportedPath": "projetos/academia-n.r/03.-notarial-e-registral-parte-3/01.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/03. NOTARIAL E REGISTRAL - Parte 3/02. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 25,
+      "exportedPath": "projetos/academia-n.r/03.-notarial-e-registral-parte-3/02.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/03. NOTARIAL E REGISTRAL - Parte 3/03. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 25,
+      "exportedPath": "projetos/academia-n.r/03.-notarial-e-registral-parte-3/03.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/03. NOTARIAL E REGISTRAL - Parte 3/04. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 25,
+      "exportedPath": "projetos/academia-n.r/03.-notarial-e-registral-parte-3/04.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/03. NOTARIAL E REGISTRAL - Parte 3/05. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 25,
+      "exportedPath": "projetos/academia-n.r/03.-notarial-e-registral-parte-3/05.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/03. NOTARIAL E REGISTRAL - Parte 3/06. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 25,
+      "exportedPath": "projetos/academia-n.r/03.-notarial-e-registral-parte-3/06.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/03. NOTARIAL E REGISTRAL - Parte 3/07. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 25,
+      "exportedPath": "projetos/academia-n.r/03.-notarial-e-registral-parte-3/07.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/03. NOTARIAL E REGISTRAL - Parte 3/08. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 25,
+      "exportedPath": "projetos/academia-n.r/03.-notarial-e-registral-parte-3/08.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/03. NOTARIAL E REGISTRAL - Parte 3/09. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 25,
+      "exportedPath": "projetos/academia-n.r/03.-notarial-e-registral-parte-3/09.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/03. NOTARIAL E REGISTRAL - Parte 3/10. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 25,
+      "exportedPath": "projetos/academia-n.r/03.-notarial-e-registral-parte-3/10.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/04. NOTARIAL E REGISTRAL - Parte 3/00. Conteúdo Programático - ENAC.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 0,
+      "exportedPath": "projetos/academia-n.r/04.-notarial-e-registral-parte-3/00.-conteúdo-programático-enac.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/04. NOTARIAL E REGISTRAL - Parte 3/01. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 25,
+      "exportedPath": "projetos/academia-n.r/04.-notarial-e-registral-parte-3/01.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/04. NOTARIAL E REGISTRAL - Parte 3/02. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 25,
+      "exportedPath": "projetos/academia-n.r/04.-notarial-e-registral-parte-3/02.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/04. NOTARIAL E REGISTRAL - Parte 3/03. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 25,
+      "exportedPath": "projetos/academia-n.r/04.-notarial-e-registral-parte-3/03.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/04. NOTARIAL E REGISTRAL - Parte 3/04. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 25,
+      "exportedPath": "projetos/academia-n.r/04.-notarial-e-registral-parte-3/04.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/04. NOTARIAL E REGISTRAL - Parte 3/05. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 25,
+      "exportedPath": "projetos/academia-n.r/04.-notarial-e-registral-parte-3/05.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/04. NOTARIAL E REGISTRAL - Parte 3/06. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 25,
+      "exportedPath": "projetos/academia-n.r/04.-notarial-e-registral-parte-3/06.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/04. NOTARIAL E REGISTRAL - Parte 3/07. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 25,
+      "exportedPath": "projetos/academia-n.r/04.-notarial-e-registral-parte-3/07.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/04. NOTARIAL E REGISTRAL - Parte 3/08. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 25,
+      "exportedPath": "projetos/academia-n.r/04.-notarial-e-registral-parte-3/08.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/04. NOTARIAL E REGISTRAL - Parte 3/09. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 25,
+      "exportedPath": "projetos/academia-n.r/04.-notarial-e-registral-parte-3/09.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/04. NOTARIAL E REGISTRAL - Parte 3/10. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 25,
+      "exportedPath": "projetos/academia-n.r/04.-notarial-e-registral-parte-3/10.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/05. CIVIL - Parte 1/00. Conteúdo Programático - ENAC.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 0,
+      "exportedPath": "projetos/academia-n.r/05.-civil-parte-1/00.-conteúdo-programático-enac.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/05. CIVIL - Parte 1/01. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 25,
+      "exportedPath": "projetos/academia-n.r/05.-civil-parte-1/01.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/05. CIVIL - Parte 1/02. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 25,
+      "exportedPath": "projetos/academia-n.r/05.-civil-parte-1/02.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/05. CIVIL - Parte 1/03. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 25,
+      "exportedPath": "projetos/academia-n.r/05.-civil-parte-1/03.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/05. CIVIL - Parte 1/04. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 25,
+      "exportedPath": "projetos/academia-n.r/05.-civil-parte-1/04.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/05. CIVIL - Parte 1/05. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 25,
+      "exportedPath": "projetos/academia-n.r/05.-civil-parte-1/05.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/05. CIVIL - Parte 1/06. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 25,
+      "exportedPath": "projetos/academia-n.r/05.-civil-parte-1/06.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/05. CIVIL - Parte 1/07. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 25,
+      "exportedPath": "projetos/academia-n.r/05.-civil-parte-1/07.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/05. CIVIL - Parte 1/08. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 25,
+      "exportedPath": "projetos/academia-n.r/05.-civil-parte-1/08.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/05. CIVIL - Parte 1/09. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 25,
+      "exportedPath": "projetos/academia-n.r/05.-civil-parte-1/09.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/05. CIVIL - Parte 1/10. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 25,
+      "exportedPath": "projetos/academia-n.r/05.-civil-parte-1/10.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/06. CIVIL - Parte 2 (Neto)/00. Conteúdo Programático - ENAC.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 2848,
+      "exportedPath": "projetos/academia-n.r/06.-civil-parte-2-(neto)/00.-conteúdo-programático-enac.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/06. CIVIL - Parte 2 (Neto)/11. Do Direito das Obrigações..md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 71943,
+      "exportedPath": "projetos/academia-n.r/06.-civil-parte-2-(neto)/11.-do-direito-das-obrigações..html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/06. CIVIL - Parte 2 (Neto)/12. Dos Contratos em Geral..md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 180063,
+      "exportedPath": "projetos/academia-n.r/06.-civil-parte-2-(neto)/12.-dos-contratos-em-geral..html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/06. CIVIL - Parte 2 (Neto)/13. Do Direito de Família.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 138125,
+      "exportedPath": "projetos/academia-n.r/06.-civil-parte-2-(neto)/13.-do-direito-de-família.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/06. CIVIL - Parte 2 (Neto)/14. Dos Direitos das Sucessões.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 122145,
+      "exportedPath": "projetos/academia-n.r/06.-civil-parte-2-(neto)/14.-dos-direitos-das-sucessões.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/06. CIVIL - Parte 2 (Neto)/15. Súmulas do STF e do STJ.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 0,
+      "exportedPath": "projetos/academia-n.r/06.-civil-parte-2-(neto)/15.-súmulas-do-stf-e-do-stj.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/07. CONSTITUCIONAL - Parte 1 (NETO)/00. Conteúdo Programático - ENAC 1.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 1270,
+      "exportedPath": "projetos/academia-n.r/07.-constitucional-parte-1-(neto)/00.-conteúdo-programático-enac-1.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/07. CONSTITUCIONAL - Parte 1 (NETO)/Conteúdo Completo.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 2229,
+      "exportedPath": "projetos/academia-n.r/07.-constitucional-parte-1-(neto)/conteúdo-completo.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/07. CONSTITUCIONAL - Parte 2/00. Conteúdo Programático - ENAC.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 0,
+      "exportedPath": "projetos/academia-n.r/07.-constitucional-parte-2/00.-conteúdo-programático-enac.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/07. CONSTITUCIONAL - Parte 2/01. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 25,
+      "exportedPath": "projetos/academia-n.r/07.-constitucional-parte-2/01.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/07. CONSTITUCIONAL - Parte 2/02. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 25,
+      "exportedPath": "projetos/academia-n.r/07.-constitucional-parte-2/02.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/07. CONSTITUCIONAL - Parte 2/03. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 25,
+      "exportedPath": "projetos/academia-n.r/07.-constitucional-parte-2/03.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/07. CONSTITUCIONAL - Parte 2/04. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 25,
+      "exportedPath": "projetos/academia-n.r/07.-constitucional-parte-2/04.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/07. CONSTITUCIONAL - Parte 2/05. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 25,
+      "exportedPath": "projetos/academia-n.r/07.-constitucional-parte-2/05.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/07. CONSTITUCIONAL - Parte 2/06. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 25,
+      "exportedPath": "projetos/academia-n.r/07.-constitucional-parte-2/06.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/07. CONSTITUCIONAL - Parte 2/07. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 25,
+      "exportedPath": "projetos/academia-n.r/07.-constitucional-parte-2/07.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/07. CONSTITUCIONAL - Parte 2/08. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 25,
+      "exportedPath": "projetos/academia-n.r/07.-constitucional-parte-2/08.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/07. CONSTITUCIONAL - Parte 2/09. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 25,
+      "exportedPath": "projetos/academia-n.r/07.-constitucional-parte-2/09.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/07. CONSTITUCIONAL - Parte 2/10. Título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 25,
+      "exportedPath": "projetos/academia-n.r/07.-constitucional-parte-2/10.-título.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/09. ADMINISTRATIVO (Bruno)/00. Conteúdo Programático - ENAC.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 3422,
+      "exportedPath": "projetos/academia-n.r/09.-administrativo-(bruno)/00.-conteúdo-programático-enac.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/10. TRIBUTÁRIO (Bruno)/00. Conteúdo Programático - ENAC.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 880,
+      "exportedPath": "projetos/academia-n.r/10.-tributário-(bruno)/00.-conteúdo-programático-enac.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/11. EMPRESARIAL (Bruno)/00. Conteúdo Programático - ENAC.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 1425,
+      "exportedPath": "projetos/academia-n.r/11.-empresarial-(bruno)/00.-conteúdo-programático-enac.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/12. PENAL (Bruno + Erick)/00. Conteúdo Programático - ENAC.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 1037,
+      "exportedPath": "projetos/academia-n.r/12.-penal-(bruno-+-erick)/00.-conteúdo-programático-enac.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/13. PROCESSO PENAL (Bruno + Erick)/00. Conteúdo Programático - ENAC.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 618,
+      "exportedPath": "projetos/academia-n.r/13.-processo-penal-(bruno-+-erick)/00.-conteúdo-programático-enac.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/14. PROCESSO CIVIL (Bruno + Erick)/00. Conteúdo Programático - ENAC.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 1937,
+      "exportedPath": "projetos/academia-n.r/14.-processo-civil-(bruno-+-erick)/00.-conteúdo-programático-enac.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/15. CONHECIMENTOS GERAIS (Bruno + Erick)/00. Conteúdo Programático - ENAC.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 1439,
+      "exportedPath": "projetos/academia-n.r/15.-conhecimentos-gerais-(bruno-+-erick)/00.-conteúdo-programático-enac.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/15. CONHECIMENTOS GERAIS (Bruno + Erick)/Notas gerais.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 309,
+      "exportedPath": "projetos/academia-n.r/15.-conhecimentos-gerais-(bruno-+-erick)/notas-gerais.html",
+      "dependencies": []
+    },
+    "PROJETOS/ACADEMIA N.R/15. CONHECIMENTOS GERAIS (Bruno + Erick)/Sem título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 13089,
+      "exportedPath": "projetos/academia-n.r/15.-conhecimentos-gerais-(bruno-+-erick)/sem-título.html",
+      "dependencies": []
+    },
+    "TEMPLATES/📌 Template para Jurisprudência.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 278,
+      "exportedPath": "templates/📌-template-para-jurisprudência.html",
+      "dependencies": []
+    },
+    "TEMPLATES/📌 Template para LEI.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 218,
+      "exportedPath": "templates/📌-template-para-lei.html",
+      "dependencies": []
+    },
+    "TEMPLATES/📌 Template para Súmulas.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 209,
+      "exportedPath": "templates/📌-template-para-súmulas.html",
+      "dependencies": []
+    },
+    "TEMPLATES/Direito Administrativo.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 47,
+      "exportedPath": "templates/direito-administrativo.html",
+      "dependencies": []
+    },
+    "TEMPLATES/Direito Civil.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 38,
+      "exportedPath": "templates/direito-civil.html",
+      "dependencies": []
+    },
+    "TEMPLATES/Direito Constitucional.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 319,
+      "exportedPath": "templates/direito-constitucional.html",
+      "dependencies": []
+    },
+    "TEMPLATES/Direito Penal.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 38,
+      "exportedPath": "templates/direito-penal.html",
+      "dependencies": []
+    },
+    "TEMPLATES/Direito Trabalho.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 41,
+      "exportedPath": "templates/direito-trabalho.html",
+      "dependencies": []
+    },
+    "TEMPLATES/Direito Tributário.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 44,
+      "exportedPath": "templates/direito-tributário.html",
+      "dependencies": []
+    },
+    "TEMPLATES/Doutrina.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 33,
+      "exportedPath": "templates/doutrina.html",
+      "dependencies": []
+    },
+    "TEMPLATES/Jurisprudência.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 40,
+      "exportedPath": "templates/jurisprudência.html",
+      "dependencies": []
+    },
+    "TEMPLATES/Legislação.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 37,
+      "exportedPath": "templates/legislação.html",
+      "dependencies": []
+    },
+    "TEMPLATES/QuestãoComentada.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 42,
+      "exportedPath": "templates/questãocomentada.html",
+      "dependencies": []
+    },
+    "TEMPLATES/Resumo.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 31,
+      "exportedPath": "templates/resumo.html",
+      "dependencies": []
+    },
+    "TEMPLATES/STF.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 28,
+      "exportedPath": "templates/stf.html",
+      "dependencies": []
+    },
+    "TEMPLATES/STJ.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 28,
+      "exportedPath": "templates/stj.html",
+      "dependencies": []
+    },
+    "TEMPLATES/Súmula.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 32,
+      "exportedPath": "templates/súmula.html",
+      "dependencies": []
+    },
+    "TEMPLATES/TST.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 28,
+      "exportedPath": "templates/tst.html",
+      "dependencies": []
+    },
+    "2.1. Histórico da legislação. Sistema de transcrição. Sistema de matrículas..md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 0,
+      "exportedPath": "2.1.-histórico-da-legislação.-sistema-de-transcrição.-sistema-de-matrículas..html",
+      "dependencies": []
+    },
+    "2.2. Evolução nas técnicas de escrituração dos atos.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 0,
+      "exportedPath": "2.2.-evolução-nas-técnicas-de-escrituração-dos-atos.html",
+      "dependencies": []
+    },
+    "6.4. A Matrícula e conceito jurídico de bem imóvel.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 622,
+      "exportedPath": "6.4.-a-matrícula-e-conceito-jurídico-de-bem-imóvel.html",
+      "dependencies": []
+    },
+    "11. Resoluções do CNJ..md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 0,
+      "exportedPath": "11.-resoluções-do-cnj..html",
+      "dependencies": []
+    },
+    "11.1. Resolução n° 402, de 28 de junho de 2021, que dispõe sobre ações de caráter informativo, no âmbito do Serviço de Registro Civil das Pessoas Naturais, para melhor preparação para o casamento civil, e dá outras providências.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 0,
+      "exportedPath": "11.1.-resolução-n°-402,-de-28-de-junho-de-2021,-que-dispõe-sobre-ações-de-caráter-informativo,-no-âmbito-do-serviço-de-registro-civil-das-pessoas-naturais,-para-melhor-preparação-para-o-casamento-civil,-e-dá-outras-providências.html",
+      "dependencies": []
+    },
+    "11.2. Resolução n° 35, de 24 de abril de 2007, que disciplina a lavratura dos atos notariais relacionados a inventário, partilha, separação consensual, divórcio consensual e extinção consensual de união estável por via administrati.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 0,
+      "exportedPath": "11.2.-resolução-n°-35,-de-24-de-abril-de-2007,-que-disciplina-a-lavratura-dos-atos-notariais-relacionados-a-inventário,-partilha,-separação-consensual,-divórcio-consensual-e-extinção-consensual-de-união-estável-por-via-administrati.html",
+      "dependencies": []
+    },
+    "Captura de Tela 2025-02-08 às 14.01.11.png": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 137188,
+      "exportedPath": "captura-de-tela-2025-02-08-às-14.01.11.png",
+      "dependencies": []
+    },
+    "Sem título.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 0,
+      "exportedPath": "sem-título.html",
+      "dependencies": []
+    },
+    "Trilha 4.md": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 0,
+      "exportedPath": "trilha-4.html",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 65244,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 13694,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 137567,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 855378,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 382,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1741713774668,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
